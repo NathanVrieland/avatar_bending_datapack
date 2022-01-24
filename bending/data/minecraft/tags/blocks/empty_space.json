@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:air",
+        "minecraft:grass",
+        "minecraft:tall_grass",
+        "#fire",
+        "#crops",
+        "#wart_blocks",
+        "#cave_vines",
+        "#flowers"
+    ]
+}
