@@ -8,7 +8,7 @@ execute at @s run fill ~2 ~ ~2 ~2 ~-10 ~2 air replace cobbled_deepslate
 execute at @s run fill ~-2 ~ ~2 ~-2 ~-10 ~2 air replace cobbled_deepslate
 execute at @s run fill ~-2 ~ ~-2 ~-2 ~-10 ~-2 air replace cobbled_deepslate
 execute at @s run fill ~2 ~ ~-2 ~2 ~-10 ~-2 air replace cobbled_deepslate
-execute at @s run fill ~1 ~ ~1 ~-1 ~ ~-1 air replace cobbled_deepslate
+execute at @s run fill ~1 ~ ~1 ~-1 ~ ~-1 air replace #rocks
 execute at @s run playsound entity.generic.explode master @a ~ ~ ~
 item replace entity @s hotbar.8 with barrier
 clear @s nether_star{display:{Name: '[{"text": "create_pillar"}]'}}
