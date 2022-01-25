@@ -13,6 +13,7 @@
         "minecraft:nether_quartz_ore",
         "minecraft:end_stone",
         "minecraft:basalt",
-        "minecraft:gravel"
+        "minecraft:gravel",
+        "minecraft:lapis_block"
     ]
 }
