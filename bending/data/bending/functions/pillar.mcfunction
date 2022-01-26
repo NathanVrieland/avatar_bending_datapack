@@ -10,6 +10,6 @@ execute at @s run fill ~-2 ~ ~-2 ~-2 ~-10 ~-2 air replace cobbled_deepslate
 execute at @s run fill ~2 ~ ~-2 ~2 ~-10 ~-2 air replace cobbled_deepslate
 execute at @s run fill ~1 ~ ~1 ~-1 ~ ~-1 air replace #earth
 execute at @s run playsound entity.generic.explode master @a ~ ~ ~
-item replace entity @s hotbar.8 with barrier
+item replace entity @s hotbar.8 with firework_star{display:{Name: '[{"text": "== cooldown ==", "color": "red"}]'}}
 clear @s nether_star{display:{Name: '[{"text": "create_pillar"}]'}}
 scoreboard players add @s pillar_timer 100
