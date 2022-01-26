@@ -3,6 +3,7 @@
         "minecraft:air",
         "minecraft:grass",
         "minecraft:tall_grass",
+        "minecraft:water",
         "#fire",
         "#crops",
         "#wart_blocks",

@@ -2,6 +2,10 @@
     "values" :[
         "#base_stone_overworld",
         "#base_stone_nether",
+        "#terracotta",
+        "#sand",
+        "minecraft:sandstone",
+        "minecraft:red_sandstone",
         "minecraft:cobblestone",
         "minecraft:deepslate",
         "minecraft:cobbled_deepslate",
@@ -16,6 +20,7 @@
         "minecraft:basalt",
         "minecraft:gravel",
         "minecraft:lapis_ore",
+        "minecraft:sand",
         "warped_nylium",
         "crimson_nylium"
     ]
