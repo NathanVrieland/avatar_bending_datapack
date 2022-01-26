@@ -1,1 +1,1 @@
-execute as @s if block ~ ~-1 ~ #earth run function bending:dig
+execute as @s if block ~ ~-1 ~ #earth run function earth:dig
