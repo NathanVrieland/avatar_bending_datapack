@@ -7,6 +7,7 @@
         "minecraft:cobbled_deepslate",
         "minecraft:tuff",
         "minecraft:dirt",
+        "minecraft:coarse_dirt",
         "minecraft:grass_block",
         "minecraft:coal_ore",
         "minecraft:redstone_ore",
@@ -14,6 +15,8 @@
         "minecraft:end_stone",
         "minecraft:basalt",
         "minecraft:gravel",
-        "minecraft:lapis_block"
+        "minecraft:lapis_ore",
+        "warped_nylium",
+        "crimson_nylium"
     ]
 }
